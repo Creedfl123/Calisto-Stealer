@@ -15,22 +15,7 @@ The author of this program is not liable for any damage, harm, or legal conseque
 
 # Features
 --------------------------------------------------------------------------------------------------------------------------
-- Captures Passwords from 10+ Browsers.
-- Captures Cookies from 10+ Browsers.
-- Captures Discord Tokens.
-- Captures Roblox Cookies.
-- Captures Minecraft Session Files.
-- Captures Machine Info.
-- Captures Webcam Photos.
-- Captures IP Address.
-- Captures Screenshot(s) of All Monitors.
-- Captures Wallets.
-- Captures Telegram Sessions.
-- Blocks AV Sites (Buggy).
-- Adds itself to Startup.
-- Anti-Virtual Machine.
-- Obfuscation.
-- Self Destruct.
+Taking control of users pc fully on download
 
 # Customizations
 --------------------------------------------------------------------------------------------------------------------------
